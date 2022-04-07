@@ -14,7 +14,7 @@ Please choose one:
 choose = int(input(menu))
 
 if choose == 1:
-    converter("COP", 3771)
+    converter("COP", 3746)
 elif choose == 2:
     converter("MXN", 20.10)
 elif choose == 3:

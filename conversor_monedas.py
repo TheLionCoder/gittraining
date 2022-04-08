@@ -5,7 +5,7 @@ def converter(currency, usd):
 
 
 menu = '''
-Welcome to my Currency Converter 🤑
+Welcome to the brand new Currency Converter 🤑
 1 - COP
 2 - MXN
 3 - ARS

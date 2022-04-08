@@ -15,6 +15,22 @@ body {
     width: 70%;
 }
 
+#header {
+    background: #7209B7;
+    color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    text-align: left;
+}
+
+#header #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8 em;
+}
+
 #container h1{
     font-size: 20px;
 }

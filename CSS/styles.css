@@ -46,4 +46,9 @@ body {
     background: #white;
     padding: 1em;
     text-align: left;
-}
+#footer{
+    background: #560BAD;
+    border: 2rem solid;
+    color: white;
+    font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+    text-align: center;

@@ -1,7 +1,7 @@
 def converter(currency, usd):
     currency_amount = float(input("Type the amount: \n"))
     usd_amount = currency_amount / usd
-    print("The amount of {} you have is: USD {:.2f}.".format(currency, usd_amount))
+    print("The amount of {} you have is: USD {:.3f}.".format(currency, usd_amount))
 
 
 menu = '''

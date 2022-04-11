@@ -8,4 +8,4 @@ Git Course in Platzi.
 * Git best practices.
 * Some tricks.
 
-***And please remember the before text is just something random, you don't be some serious about it. 😁**
+***And please remember the previous text is just something random, you don't be some serious about it. 😁**
